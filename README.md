@@ -1,5 +1,4 @@
 - 🦙 Hi, I’m @TeckLlama 🦙
-- 🎓 I’m currently undertaking a BSc in Cyber Security 🌱
 - 👀 I’m interested in Blockchain, OSINT Tools and Programming 🕵️
 - 📫 How to reach me teckllama@protonmail.com 📧
 
